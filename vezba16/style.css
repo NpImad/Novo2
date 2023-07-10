@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.container{
+    width: 400px;
+    height: 450px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+.display {
+    width: 380px;
+    height: 70px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.display1 {
+   
+}
